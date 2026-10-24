@@ -32,6 +32,13 @@
   <a href="https://discord.gg/QM2rDgy43Y">Discord</a>
   &nbsp;&nbsp;
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modrexio/.github/main/assets/icons/instagram-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/modrexio/.github/main/assets/icons/instagram-light.svg">
+    <img src="https://raw.githubusercontent.com/modrexio/.github/main/assets/icons/instagram-light.svg" width="16" height="16" alt="">
+  </picture>
+  <a href="https://www.instagram.com/modrexio/">Instagram</a>
+  &nbsp;&nbsp;
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modrexio/.github/ccc0319a7af3a7b5c7b6ce61368741d624639ee3/assets/icons/mail-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/modrexio/.github/ccc0319a7af3a7b5c7b6ce61368741d624639ee3/assets/icons/mail-light.svg">
     <img src="https://raw.githubusercontent.com/modrexio/.github/ccc0319a7af3a7b5c7b6ce61368741d624639ee3/assets/icons/mail-light.svg" width="16" height="16" alt="">

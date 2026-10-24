@@ -1,6 +1,6 @@
 # Icon licenses
 
-The globe, download, book-open, and mail icons are from [Lucide](https://lucide.dev/). Their license follows.
+The globe, download, book-open, mail, and Instagram icons are from [Lucide](https://lucide.dev/). Their license follows.
 
 The Discord icon is from [Simple Icons](https://simpleicons.org/), distributed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Discord retains its trademark rights.
 
